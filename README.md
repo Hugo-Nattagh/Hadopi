@@ -12,13 +12,13 @@ I used **matplotlib** for the time series charts.
 I reproduced the inverted triangle charts with a proportional scale.
 To do so, I used **Inkscape**.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![](https://raw.githubusercontent.com/Hugo-Nattagh/Hadopi/master/Charts/Figure_1.png)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/Hugo-Nattagh/Hadopi/master/Charts/Figure_2.png)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/Hugo-Nattagh/Hadopi/master/Charts/Figure_3.png)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/Hugo-Nattagh/Hadopi/master/Charts/Proportional.png)
 
 #### The data
 
