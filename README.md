@@ -4,7 +4,7 @@
 
 I wanted to see what is the efficiency of the HADOPI law, knowing its cost each year.  
 The official data representations are nice, but I felt like another point of view could be helpful.  
-I wrote an [article] (in french) for more details.
+I wrote an [article](https://medium.com/@hedekcms/hadopi-rapport-qualit%C3%A9-prix-681c8a4ae053) (in french) for more details.
 
 #### What's going on
 
